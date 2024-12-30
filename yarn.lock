@@ -3212,7 +3212,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@metamask/snaps-sdk@npm:^6.10.0, @metamask/snaps-sdk@npm:^6.14.0, @metamask/snaps-sdk@npm:^6.5.0":
+"@metamask/snaps-sdk@npm:^6.10.0, @metamask/snaps-sdk@npm:^6.14.0":
   version: 6.14.0
   resolution: "@metamask/snaps-sdk@npm:6.14.0"
   dependencies:
@@ -3252,7 +3252,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@metamask/snaps-utils@npm:^8.1.1, @metamask/snaps-utils@npm:^8.5.0":
+"@metamask/snaps-utils@npm:^8.5.0":
   version: 8.5.1
   resolution: "@metamask/snaps-utils@npm:8.5.1"
   dependencies:
@@ -3315,14 +3315,15 @@ __metadata:
   linkType: hard
 
 "@metamask/snaps-webpack-plugin@npm:^4.1.2":
-  version: 4.1.2
-  resolution: "@metamask/snaps-webpack-plugin@npm:4.1.2"
+  version: 4.2.0
+  resolution: "@metamask/snaps-webpack-plugin@npm:4.2.0"
   dependencies:
-    "@metamask/snaps-sdk": ^6.5.0
-    "@metamask/snaps-utils": ^8.1.1
-    "@metamask/utils": ^9.2.1
+    "@metamask/snaps-sdk": ^6.14.0
+    "@metamask/snaps-utils": ^8.7.0
+    "@metamask/utils": ^10.0.0
+    prettier: ^2.8.8
     webpack-sources: ^3.2.3
-  checksum: ab3772ed9bce9ad7a3599c01f57b899e9c840fc31528293277985fb08872eb22c2317d30d16555b712920189de4585aeed39fa6eb00580226d9583a4bb7d1797
+  checksum: 27604ed49b6ba4d642106cd2bc6511d9733e88e83f21eb3f3a181e503630991ba2dc84c607870c82043dcbe66c2c3fedfbc5557f2ad8bbd65becf57f3addac8f
   languageName: node
   linkType: hard
 
@@ -3383,7 +3384,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@metamask/utils@npm:^9.0.0, @metamask/utils@npm:^9.1.0, @metamask/utils@npm:^9.2.1":
+"@metamask/utils@npm:^9.0.0, @metamask/utils@npm:^9.1.0":
   version: 9.3.0
   resolution: "@metamask/utils@npm:9.3.0"
   dependencies:
