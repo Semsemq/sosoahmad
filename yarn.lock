@@ -2874,19 +2874,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@metamask/key-tree@npm:^9.1.2":
-  version: 9.1.2
-  resolution: "@metamask/key-tree@npm:9.1.2"
-  dependencies:
-    "@metamask/scure-bip39": ^2.1.1
-    "@metamask/utils": ^9.0.0
-    "@noble/curves": ^1.2.0
-    "@noble/hashes": ^1.3.2
-    "@scure/base": ^1.0.0
-  checksum: eb60bdbfa1806c2f248bf2602cd242e21b0fbe8bbb00ec97c3891739956a81e26c0dae125282a6207dbbe0643e727ff3574067b48210a0b01f12aae7b3159b77
-  languageName: node
-  linkType: hard
-
 "@metamask/number-to-bn@npm:^1.7.1":
   version: 1.7.1
   resolution: "@metamask/number-to-bn@npm:1.7.1"
@@ -3037,8 +3024,8 @@ __metadata:
   linkType: hard
 
 "@metamask/snaps-cli@npm:^6.5.2":
-  version: 6.5.2
-  resolution: "@metamask/snaps-cli@npm:6.5.2"
+  version: 6.6.0
+  resolution: "@metamask/snaps-cli@npm:6.6.0"
   dependencies:
     "@babel/core": ^7.23.2
     "@babel/plugin-transform-class-properties": ^7.22.5
@@ -3048,9 +3035,9 @@ __metadata:
     "@babel/plugin-transform-runtime": ^7.13.2
     "@babel/preset-env": ^7.23.2
     "@babel/preset-typescript": ^7.23.2
-    "@metamask/snaps-sdk": ^6.10.0
-    "@metamask/snaps-utils": ^8.5.0
-    "@metamask/snaps-webpack-plugin": ^4.1.2
+    "@metamask/snaps-sdk": ^6.14.0
+    "@metamask/snaps-utils": ^8.7.0
+    "@metamask/snaps-webpack-plugin": ^4.2.0
     "@metamask/superstruct": ^3.1.0
     "@metamask/utils": ^10.0.0
     "@swc/core": 1.3.78
@@ -3092,7 +3079,7 @@ __metadata:
     yargs: ^17.7.1
   bin:
     mm-snap: ./dist/main.cjs
-  checksum: ccb667a1fe296f001fa03391b04d456557e4ac36ae01a9ba6b0bf91d01acc513a2f7b0f0d654cb82b70d80da38e894d6b0439d8e8d63663a9ee38a30d2069f28
+  checksum: b384deebbe85aeba7bb45f298ec5aff6fff6f459a8191e8e9b616ce240d0927922e3981c4fa11b9d9f787f9ec40c769c9a8cebdc5b55641a6bd16990c23a94dc
   languageName: node
   linkType: hard
 
@@ -3242,37 +3229,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@metamask/snaps-utils@npm:^8.5.0":
-  version: 8.5.1
-  resolution: "@metamask/snaps-utils@npm:8.5.1"
-  dependencies:
-    "@babel/core": ^7.23.2
-    "@babel/types": ^7.23.0
-    "@metamask/base-controller": ^7.0.2
-    "@metamask/key-tree": ^9.1.2
-    "@metamask/permission-controller": ^11.0.3
-    "@metamask/rpc-errors": ^7.0.1
-    "@metamask/slip44": ^4.0.0
-    "@metamask/snaps-registry": ^3.2.2
-    "@metamask/snaps-sdk": ^6.10.0
-    "@metamask/superstruct": ^3.1.0
-    "@metamask/utils": ^10.0.0
-    "@noble/hashes": ^1.3.1
-    "@scure/base": ^1.1.1
-    chalk: ^4.1.2
-    cron-parser: ^4.5.0
-    fast-deep-equal: ^3.1.3
-    fast-json-stable-stringify: ^2.1.0
-    fast-xml-parser: ^4.4.1
-    marked: ^12.0.1
-    rfdc: ^1.3.0
-    semver: ^7.5.4
-    ses: ^1.1.0
-    validate-npm-package-name: ^5.0.0
-  checksum: 17e3fb3f252757a57b1cfcf44badd0051c9fed4ff37b1217c95b6867b3addaf7e62159ee1d6c9fc4780812af681b9498e36ecc0ccbee188f13b90306e838247d
-  languageName: node
-  linkType: hard
-
 "@metamask/snaps-utils@npm:^8.7.0":
   version: 8.7.0
   resolution: "@metamask/snaps-utils@npm:8.7.0"
@@ -3304,7 +3260,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@metamask/snaps-webpack-plugin@npm:^4.1.2":
+"@metamask/snaps-webpack-plugin@npm:^4.2.0":
   version: 4.2.0
   resolution: "@metamask/snaps-webpack-plugin@npm:4.2.0"
   dependencies:
