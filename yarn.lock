@@ -2815,18 +2815,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@metamask/json-rpc-engine@npm:^10.0.0, @metamask/json-rpc-engine@npm:^10.0.1":
-  version: 10.0.1
-  resolution: "@metamask/json-rpc-engine@npm:10.0.1"
-  dependencies:
-    "@metamask/rpc-errors": ^7.0.1
-    "@metamask/safe-event-emitter": ^3.0.0
-    "@metamask/utils": ^10.0.0
-  checksum: 277c68cf0036d62c9a1528e9d7e55e000233d02a55fb652edcc16b6149631346d34fe3fefaab13bc55377405e79293afdde5b6e3b61d49a2ce125ca50d7eafe1
-  languageName: node
-  linkType: hard
-
-"@metamask/json-rpc-engine@npm:^10.0.2":
+"@metamask/json-rpc-engine@npm:^10.0.0, @metamask/json-rpc-engine@npm:^10.0.1, @metamask/json-rpc-engine@npm:^10.0.2":
   version: 10.0.2
   resolution: "@metamask/json-rpc-engine@npm:10.0.2"
   dependencies:
