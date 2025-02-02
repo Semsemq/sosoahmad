@@ -2955,27 +2955,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@metamask/providers@npm:^18.1.1":
-  version: 18.1.1
-  resolution: "@metamask/providers@npm:18.1.1"
-  dependencies:
-    "@metamask/json-rpc-engine": ^10.0.1
-    "@metamask/json-rpc-middleware-stream": ^8.0.5
-    "@metamask/object-multiplex": ^2.0.0
-    "@metamask/rpc-errors": ^7.0.1
-    "@metamask/safe-event-emitter": ^3.1.1
-    "@metamask/utils": ^10.0.0
-    detect-browser: ^5.2.0
-    extension-port-stream: ^4.1.0
-    fast-deep-equal: ^3.1.3
-    is-stream: ^2.0.0
-    readable-stream: ^3.6.2
-  peerDependencies:
-    webextension-polyfill: ^0.10.0 || ^0.11.0 || ^0.12.0
-  checksum: ca28bab03d7b67fd1e4fccf28045bd465a961c946b1f3e2464d6201730ec8c50970eb4a48d373bd3a7ac0bda471da604b71aaf5f22eae3c342a82e5b07134e91
-  languageName: node
-  linkType: hard
-
 "@metamask/providers@npm:^18.3.1":
   version: 18.3.1
   resolution: "@metamask/providers@npm:18.3.1"
@@ -3230,33 +3209,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@metamask/snaps-sdk@npm:^6.10.0, @metamask/snaps-sdk@npm:^6.14.0":
-  version: 6.14.0
-  resolution: "@metamask/snaps-sdk@npm:6.14.0"
-  dependencies:
-    "@metamask/key-tree": ^10.0.1
-    "@metamask/providers": ^18.1.1
-    "@metamask/rpc-errors": ^7.0.1
-    "@metamask/superstruct": ^3.1.0
-    "@metamask/utils": ^10.0.0
-  checksum: b3249976538664f9bf40b5bedc307c42940fb105e2e292f38668853d581ebcedf274978dbe4af331383f743ed87ee587c0e3e5eac834765aefa199920d86b898
-  languageName: node
-  linkType: hard
-
-"@metamask/snaps-sdk@npm:^6.15.0":
-  version: 6.15.0
-  resolution: "@metamask/snaps-sdk@npm:6.15.0"
-  dependencies:
-    "@metamask/key-tree": ^10.0.2
-    "@metamask/providers": ^18.3.1
-    "@metamask/rpc-errors": ^7.0.2
-    "@metamask/superstruct": ^3.1.0
-    "@metamask/utils": ^11.0.1
-  checksum: dd50fe43598b149a76d6f2718f6bf3652a765bf4daa2b2d7515555c10676746528742cc302fdceb18ceeb32beccd8ad70b79e8f6cf04dbbdb316ebdac6766335
-  languageName: node
-  linkType: hard
-
-"@metamask/snaps-sdk@npm:^6.16.0":
+"@metamask/snaps-sdk@npm:^6.10.0, @metamask/snaps-sdk@npm:^6.14.0, @metamask/snaps-sdk@npm:^6.15.0, @metamask/snaps-sdk@npm:^6.16.0":
   version: 6.16.0
   resolution: "@metamask/snaps-sdk@npm:6.16.0"
   dependencies:
