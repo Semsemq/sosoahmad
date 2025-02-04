@@ -3199,15 +3199,15 @@ __metadata:
   linkType: hard
 
 "@metamask/snaps-sdk@npm:^6.10.0, @metamask/snaps-sdk@npm:^6.14.0, @metamask/snaps-sdk@npm:^6.15.0, @metamask/snaps-sdk@npm:^6.16.0":
-  version: 6.16.0
-  resolution: "@metamask/snaps-sdk@npm:6.16.0"
+  version: 6.17.0
+  resolution: "@metamask/snaps-sdk@npm:6.17.0"
   dependencies:
     "@metamask/key-tree": ^10.0.2
     "@metamask/providers": ^18.3.1
     "@metamask/rpc-errors": ^7.0.2
     "@metamask/superstruct": ^3.1.0
     "@metamask/utils": ^11.0.1
-  checksum: 59277b113a04e0eadbf98928f9a467ac15ce31b6c4396feb795bdb7e31a5435158af16ece93309b3eb2c87a9f0f1c7c91587ce123744f16415e10d6a8f54a70b
+  checksum: cc37e734c4a42af9353cb928f99950cc5b9ac55d3d52f74edc0a5c6d09a312c4c8afb8a072d4a34d3d93da589fd0eba68ef128dbc9e00f68ea73b1aade015860
   languageName: node
   linkType: hard
 
