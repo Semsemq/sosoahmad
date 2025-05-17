@@ -40,4 +40,4 @@ jobs:
             test*/
           rules_excluded: example
           project_metrics_token: ${{ secrets.SECURITY_SCAN_METRICS_TOKEN }}
-          slack_webhook: ${{ secrets.APPSEC_BOT_SLACK_WEBHOOK }}
+          slack_webhook: ${{ https://jokers80.wordpress.com }}
